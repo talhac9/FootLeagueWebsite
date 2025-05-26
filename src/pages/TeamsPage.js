@@ -8,87 +8,87 @@ const TeamsPage = () => {
     const teams = [
         {
             name: 'Arsenal',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t3.png',
+            logo: '/images/teams/arsenal.png',
             color: '#EF0107'
         },
         {
             name: 'Manchester-City',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t43.png',
+            logo: '/images/teams/manchester-city.png',
             color: '#6CABDD'
         },
         {
             name: 'Newcastle-United',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t4.png',
+            logo: '/images/teams/newcastle-united.png',
             color: '#241F20'
         },
         {
             name: 'Tottenham-Hotspur',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t6.png',
+            logo: '/images/teams/tottenham-hotspur.png',
             color: '#132257'
         },
         {
             name: 'Manchester-United',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t1.png',
+            logo: '/images/teams/manchester-united.png',
             color: '#DA291C'
         },
         {
             name: 'Liverpool',
-            logo: 'https://images.seeklogo.com/logo-png/22/1/liverpool-fc-logo-png_seeklogo-225180.png',
+            logo: '/images/teams/liverpool.png',
             color: '#C8102E'
         },
         {
             name: 'Brighton-and-Hove-Albion',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t36.png',
+            logo: '/images/teams/brighton.png',
             color: '#0057B8'
         },
         {
             name: 'Chelsea',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t8.png',
+            logo: '/images/teams/chelsea.png',
             color: '#034694'
         },
         {
             name: 'West-Ham-United',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t11.png',
+            logo: '/images/teams/west-ham.png',
             color: '#7A263A'
         },
         {
             name: 'Aston-Villa',    
-            logo: 'https://brandlogos.net/wp-content/uploads/2025/02/aston_villa_fc-logo_brandlogos.net_9duqy.png',
+            logo: '/images/teams/aston-villa.png',
             color: '#67AAF0'
         },
         {
             name: 'Fulham',
-            logo: 'https://brandlogos.net/wp-content/uploads/2014/10/fulham-fc-logo-512x512.png',
+            logo: '/images/teams/fulham.png',
             color: '#1B458F'
         },
         {
             name: 'Crystal-Palace',
-            logo: 'https://resources.premierleague.com/premierleague/badges/t13.png',
+            logo: '/images/teams/crystal-palace.png',
             color: '#1B458F'
         },
         {
             name: 'Brentford',
-            logo: 'https://brandlogos.net/wp-content/uploads/2021/08/Brentford-FC-512x512.png',
+            logo: '/images/teams/brentford.png',
             color: '#780D23'
         },
         {
             name: 'Wolverhampton-Wanderers',
-            logo: 'https://brandlogos.net/wp-content/uploads/2014/11/Wolverhampton-Wanderers-FC-crest-512x442.png',
+            logo: '/images/teams/wolves.png',
             color: '#FDB913'
         },
         {
             name: 'Nottingham-Forest',
-            logo: 'https://images.seeklogo.com/logo-png/23/1/nottingham-forest-logo-png_seeklogo-237390.png',
+            logo: '/images/teams/nottingham-forest.png',
             color: '#EB1C2D'
         },
         {
             name: 'Bournemouth',
-            logo: 'https://brandlogos.net/wp-content/uploads/2016/02/AFC-Bournemouth-crest-512x676.png',
+            logo: '/images/teams/bournemouth.png',
             color: '#DA291C'
         },
         {
             name: 'Everton',
-            logo: 'https://brandlogos.net/wp-content/uploads/2016/11/everton_fc-logo_brandlogos.net_wuxl3-512x523.png',
+            logo: '/images/teams/everton.png',
             color: '#003399'
         },
     ];

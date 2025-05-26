@@ -32,22 +32,26 @@ const NationsPage = () => {
         
         // Special cases for UK nations
         if (code === 'eng') {
-            return `https://flagcdn.com/w160/gb-eng.png`;
+            return `/images/flags/gb-eng.png`;
         }
-        
+
+        if (countryCode === 'ms MNE') {
+            return `/images/flags/monte.png`;
+        }
+
         if (code === 'sct') {
-            return `https://flagcdn.com/w160/gb-sct.png`;
+            return `/images/flags/gb-sct.png`;
         }
 
         if (code === 'wls') {
-            return `https://flagcdn.com/w160/gb-wls.png`;
+            return `/images/flags/gb-wls.png`;
         }
 
         if (code === 'nir') {
-            return `https://flagcdn.com/w160/gb-nir.png`;
+            return `/images/flags/gb-nir.png`;
         }
         
-        return `https://flagcdn.com/w160/${code}.png`;
+        return `/images/flags/${code}.png`;
     };
 
     return (

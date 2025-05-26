@@ -67,7 +67,7 @@ const Navbar = () => {
                         onClick={() => navigate('/')}
                     >
                         <img 
-                            src="https://imgs.search.brave.com/4Mdy7G19DpSmkOGXzKD8oETe12qGRWoNbYzhySvRrUY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vV2xaMktv/TV9nNEpLelJ6U3Zi/Z3g5anhiNHRJZzAw/ejVJV0ROb3ZTcDdZ/MC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTlw/TG5CcC9ibWx0Wnk1/amIyMHZiM0pwL1oy/bHVZV3h6TDJRMEx6/VmsvTHpGakwyUTBO/V1F4WXpaai9aVGM0/WlRBM1pEaGtOR00x/L1ltTTJaV1JoT0RR/M01tUXgvTG1wd1p3"
+                            src="/images/footleague-logo.png"
                             alt="FootLeague Logo"
                             style={{
                                 height: '40px',

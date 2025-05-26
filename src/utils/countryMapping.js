@@ -51,7 +51,6 @@ export const countryMapping = {
     'ma MAR': 'Morocco',
     'jm JAM': 'Jamaica',
     'rs SRB': 'Serbia',
-    'rs MNE': 'Montenegro',
     'rs BIH': 'Bosnia and Herzegovina',
     'rs MKD': 'North Macedonia',
     'rs CRO': 'Croatia',
